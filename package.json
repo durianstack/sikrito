@@ -1,0 +1,19 @@
+{
+  "name": "@durianstack/sikrito",
+  "version": "0.0.1",
+  "description": "",
+  "main": "entry.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durianstack/sikrito.git"
+  },
+  "author": "Glen Gringgo Bangkila <hadeinvane@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/durianstack/sikrito/issues"
+  },
+  "homepage": "https://github.com/durianstack/sikrito#readme"
+}
